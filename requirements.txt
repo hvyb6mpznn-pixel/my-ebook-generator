@@ -1,0 +1,4 @@
+Plaintext
+
+google-generativeai
+streamlit
